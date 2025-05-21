@@ -66,13 +66,7 @@
             El lugar dispone de varias ventajas, como por ejemplo el hecho de que cada visitante tenga acceso durante una jornada entera, algo que beneficia en poder entender y prestar atención a la marca a la perfección.
           </mj-text>
           
-          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
-            RSVP Today
-          </mj-button>
-          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
-            Book an Appointment
-          </mj-button>
-          <mj-text color="#637381" font-size="16px" padding-top="30px">
+          <mj-text color="#637381" font-size="16px">
             También ofrecemos la participación de los medios más importantes de la comunidad Valenciano.
           </mj-text>
           <mj-text color="#637381" font-size="16px" padding-bottom="0">
@@ -85,11 +79,11 @@
       <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
         
         <mj-column width="50%">
-          <mj-image align="center" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153577/Email/Images/AnnouncementOffset/Image_1.png" alt="" />
+          <mj-image width="215px" align="center" src="media/cochecitos.jpg" alt="No cargó" />
         </mj-column>
         
         <mj-column width="50%">
-          <mj-image align="center" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153578/Email/Images/AnnouncementOffset/Image_2.png" alt="" />
+          <mj-image width="300px" align="center" src="media/ninios.jpg" alt="No cargó" />
         </mj-column>
       
       </mj-section>
@@ -105,60 +99,57 @@
       <mj-section background-color="#ffffff" padding="0 15px 0 15px">
       
         <mj-column width="100%">
+          
           <mj-text color="#212b35" font-weight="bold" font-size="20px" padding-bottom="0">
-            Come see us!
+            ¡Contactanos!
           </mj-text>
           <mj-text color="#637381" font-size="16px">
-            We're looking forward to meeting you.
+            Cualquier duda puedes consultarnosla y te la resolveremos.
           </mj-text>
-        </mj-column>
-      
-      </mj-section>
-      
-      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
-      
-        <mj-column width="50%">
-          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
-            address
-          </mj-text>
-          <mj-text color="#637381" font-size="14px" padding-top="0">
-            Austin Convention Center
-            <br />
-            123 Main Street, 78701
-          </mj-text>
-        </mj-column>
-      
-        <mj-column width="50%">
-          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
-            Hours of Operation
-          </mj-text>
-          <mj-text color="#637381" font-size="14px" padding-top="0">
-            Monday, December 20th: 8:00AM - 5:00PM
-            <br />
-            Tuesday, December 21st: 8:00AM - 5:00PM
-          </mj-text>
-        </mj-column>
-      
-      </mj-section>
-      
-      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
-      
-        <mj-column width="100%">
-          <mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153579/Email/Images/AnnouncementOffset/map.jpg" alt="" />
-        </mj-column>
-      </mj-section>
 
+        </mj-column>
+      
+      </mj-section>
+      
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+      
+        <mj-column width="50%">
+
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+            Dirección
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+            Av. de les Fires, s/n, Pobles de l'Oest
+            <br />
+            46035 València, Valencia
+          </mj-text>
+
+        </mj-column>
+      
+        <mj-column width="50%">
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+            Información de contacto
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+             <strong> Numero: </strong>  963 86 12 00
+            <br />
+            <a href="https://www.expojove.com/contacte/">Página de contacto</a>
+          </mj-text>
+        </mj-column>
+      
+      </mj-section>
+      
       <mj-section>
         <mj-column width="100%" padding="0">
           
           <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
-            <mj-social-element name="facebook" href="https://mjml.io/" background-color="#A1A0A0">
+            <mj-social-element name="facebook" href="https://www.facebook.com/expojove.valencia/?locale=es_ES" background-color="#A1A0A0">
             </mj-social-element>
-            <mj-social-element name="google" href="https://mjml.io/" background-color="#A1A0A0">
+            <mj-social-element name="instagram" href="https://www.instagram.com/expojovevlc/?hl=es" background-color="#A1A0A0">
             </mj-social-element>
-            <mj-social-element name="twitter" href="https://mjml.io/" background-color="#A1A0A0">
+            <mj-social-element name="x" href="https://twitter.com/expojovevlc?lang=bn" background-color="#A1A0A0">
             </mj-social-element>
-            <mj-social-element name="linkedin" href="https://mjml.io/" background-color="#A1A0A0">
+            <mj-social-element name="youtube" href="https://www.youtube.com/@FeriaValencia" background-color="#A1A0A0">
             </mj-social-element>
           </mj-social>
           
