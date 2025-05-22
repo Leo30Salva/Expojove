@@ -35,7 +35,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#a1182c" padding-top="0" padding-bottom="0">
+    <mj-section padding-top="0" padding-bottom="0">
       <mj-column width="100%" >
         <mj-image src="media/cuadraditos.jpg" height="130px"  alt="" padding="0" href="https://google.com" />
       </mj-column>
@@ -49,7 +49,7 @@
           </mj-text>
           
           <mj-text color="#637381" font-size="16px">
-            Nuestro lugar cuenta con un público muy amigable y fiel de los cuales tenemos datos recopilados del ultimo año:
+            Nuestro lugar cuenta con un público muy amigable y fiel de los cuales tenemos datos recopilados del ultimo año 2024:
           </mj-text>
           
           <mj-text color="#637381" font-size="16px">
@@ -61,8 +61,10 @@
             </ul>
           
           </mj-text>
+
+           <mj-divider  padding-bottom="20px" border-width="2px" border-style="dashed" border-color="lightgrey" />
           
-          <mj-text color="#637381" font-size="16px" padding-bottom="30px">
+          <mj-text  color="#637381" font-size="16px" padding-bottom="30px">
             El lugar dispone de varias ventajas, como por ejemplo el hecho de que cada visitante tenga acceso durante una jornada entera, algo que beneficia en poder entender y prestar atención a la marca a la perfección.
           </mj-text>
           
@@ -157,10 +159,10 @@
             View this email in your browser
           </mj-text>
           <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-            You are receiving this email advertisement because you registered with Croft's Accountants. (123 Main Street, Austin, TX 78701) and agreed to receive emails from us regarding new features, events and special offers.
+            Recibiste este anuncio por correo electrónico porque eres un actual expositor de Expojove. (Av. de les Fires, s/n, Pobles de l'Oest 46035 València, Valencia) y aceptó recibir correos electrónicos nuestros sobre nuevas funciones, eventos y ofertas especiales.
           </mj-text>
           <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
-            &copy; Croft's Accountants Inc., All Rights Reserved.
+            &copy; Feria de muestras de Valencia
           </mj-text>
         
         </mj-column>
